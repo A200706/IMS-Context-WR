@@ -1,1 +1,192 @@
+# WR – Organisation: Typische Fälle und Argumentationsmuster
+
+## 1. Allgemeiner Denkrahmen bei Fällen
+
+Bei Fallaufgaben im Thema Organisation:
+
+1. **Situation kurz erfassen**:
+   - Unternehmensgrösse?
+   - Anzahl Produkte?
+   - Märkte / Regionen?
+2. **Passende Begriffe und Organisationsform wählen**.
+3. **Mit 2–3 klaren Gründen begründen**, Bezug zur Situation.
+4. **Kurz und direkt** antworten (IMS-Niveau).
+
+---
+
+## 2. Organisationsform wählen (Case Pattern)
+
+### 2.1 Standard-Template
+
+- Schritt 1: Form klar nennen.
+- Schritt 2: 2–3 Gründe.
+- Schritt 3: Kurz Wirkung / Vorteil erwähnen.
+
+**Antwort-Schablone:**
+
+- „Ich empfehle eine **[Organisationsform]**, weil **[Grund 1]** und **[Grund 2]**. Dadurch **[wichtigste Folge/Vorteil]**.“
+
+### 2.2 Typische Gründe je Form
+
+- **Funktionale Organisation**
+  - Wenige, ähnliche Produkte.
+  - Mitarbeitende sollen sich auf ihre Funktion spezialisieren.
+  - Struktur soll übersichtlich bleiben.
+
+- **Divisionale Organisation nach Produkten**
+  - Sehr unterschiedliche Produktgruppen.
+  - Jede Produktlinie braucht eigene Strategie.
+  - Ergebnisverantwortung pro Produkt sinnvoll.
+
+- **Divisionale Organisation nach Regionen**
+  - Märkte in verschiedenen Ländern/Regionen.
+  - Unterschiedliche Kundenbedürfnisse je Region.
+  - Lokale Anpassungen wichtig.
+
+- **Divisionale Organisation nach Kundengruppen**
+  - Deutlich verschiedene Kundengruppen (z. B. Privat und Geschäft).
+  - Unterschiedliche Anforderungen pro Gruppe.
+  - Spezielle Betreuung je Segment nötig.
+
+---
+
+## 3. Stellenbeschrieb beurteilen
+
+### 3.1 Typische Frageformen
+
+- „Welche Elemente fehlen im Stellenbeschrieb?“
+- „Beurteilen Sie den Stellenbeschrieb.“
+- „Ist dies eine Führungsstelle? Begründen Sie.“
+
+### 3.2 Prüfschema
+
+1. Enthält der Stellenbeschrieb:
+   - Stellenbezeichnung?
+   - Aufgaben?
+   - Kompetenzen?
+   - Verantwortung?
+   - Anforderungen?
+   - Einordnung (Vorgesetzte/Unterstellte)?
+2. Fehlt etwas Wichtiges?
+3. Sind Aufgaben, Kompetenzen und Verantwortung **kongruent**?
+
+### 3.3 Antwort-Schablonen
+
+**Fehlende Elemente:**
+
+- „Es fehlen die **Kompetenzen** und die **Verantwortung**. Dadurch ist unklar, welche Entscheidungen die Stelle treffen darf und wofür sie verantwortlich ist.“
+
+**Führungsstelle ja/nein:**
+
+- „Es handelt sich um eine Führungsstelle, weil die Person andere Mitarbeitende anleitet und Weisungen erteilt. Sie trägt Verantwortung für die Ergebnisse des Teams.“
+
+- „Es ist keine Führungsstelle, weil keine Leitungsaufgaben und keine Weisungsbefugnis beschrieben werden.“
+
+---
+
+## 4. Kongruenzprinzip in Fällen prüfen
+
+### 4.1 Frageformen
+
+- „Ist das Kongruenzprinzip eingehalten? Begründen Sie.“
+- „Wo sehen Sie Probleme bei Aufgaben, Kompetenzen und Verantwortung?“
+
+### 4.2 Prüfschema
+
+1. **Aufgaben**: Was soll die Person tun?
+2. **Kompetenzen**: Welche Entscheidungen darf sie treffen?
+3. **Verantwortung**: Wofür wird sie verantwortlich gemacht?
+
+Prüffrage: Passen diese drei Ebenen zusammen?
+
+### 4.3 Antwort-Schablonen
+
+**Kongruent:**
+
+- „Das Kongruenzprinzip ist erfüllt. Die Person hat für ihre Aufgaben passende Entscheidungskompetenzen und trägt die Verantwortung für die Ergebnisse.“
+
+**Nicht kongruent:**
+
+- „Das Kongruenzprinzip ist hier nicht erfüllt. Die Stelle hat viele Aufgaben und eine hohe Verantwortung, aber kaum Entscheidungskompetenzen. Dadurch ist die Person von anderen abhängig und kann ihre Aufgaben nur schwer erfüllen.“
+
+---
+
+## 5. Kontrollspanne und Hierarchie bewerten
+
+### 5.1 Frageformen
+
+- „Beurteilen Sie die Kontrollspanne.“
+- „Ist die Organisation eher breit oder tief?“
+
+### 5.2 Denkweise
+
+1. Anzahl direkt unterstellter Mitarbeitender je Führungsperson prüfen.
+2. Anzahl Hierarchiestufen berücksichtigen.
+3. Folgen nennen.
+
+### 5.3 Antwort-Schablonen
+
+**Breite Organisation (grosse Kontrollspanne):**
+
+- „Die Kontrollspanne ist hier eher gross. Die Führungsperson hat viele Mitarbeitende direkt unterstellt. Das kann zu hoher Belastung führen, verlangt aber auch mehr Selbstständigkeit der Mitarbeitenden.“
+
+**Tiefe Organisation (kleine Kontrollspanne):**
+
+- „Die Organisation ist eher tief mit mehreren Hierarchiestufen. Die Führungsperson hat nur wenige Direktunterstellte. Das ermöglicht mehr Kontrolle, kann aber zu längeren Informationswegen und mehr Bürokratie führen.“
+
+---
+
+## 6. Diagrammbezogene Fälle kurz lösen
+
+### 6.1 Flussdiagramm aus Beschreibung
+
+**Denkweise:**
+
+1. Start und Ende festlegen.
+2. Wichtige Tätigkeiten in richtige Reihenfolge.
+3. Entscheidfragen („ja/nein“) als Knoten.
+
+**Kurzantwort-Schablone:**
+
+- „Die wichtigsten Schritte sind: **[Schritt 1]**, **[Schritt 2]**, **[Schritt 3]**. Ein Entscheid entsteht zum Beispiel bei **[Entscheid]**.“
+
+### 6.2 Balkendiagramm als Projektplan
+
+**Denkweise:**
+
+1. Anfang und Ende der Tätigkeiten nennen.
+2. Überschneidungen und Engpässe erkennen.
+3. Auswirkung kurz erklären.
+
+**Antwort-Schablone:**
+
+- „Das Balkendiagramm zeigt, dass **[Aufgabe X]** und **[Aufgabe Y]** gleichzeitig laufen. Der Engpass entsteht in der Phase **[Zeit],** weil dort mehrere Aufgaben parallel bearbeitet werden.“
+
+---
+
+## 7. Mini-Fälle zur Organisationsform (Alltagssprache → Fachsprache)
+
+### 7.1 Kleinbetrieb mit wenigen Produkten
+
+- „Kleinere Firma mit nur einem Hauptprodukt, ein Standort.“
+
+**Typische Lösung:**
+
+- „Hier passt eine funktionale Organisation mit einfacher Linienstruktur. Die Firma hat nur ein Hauptprodukt, deshalb genügt eine Gliederung nach Funktionen. Die Struktur bleibt so übersichtlich.“
+
+### 7.2 Unternehmen mit mehreren sehr unterschiedlichen Produkten
+
+- „Firma mit verschiedenen Produktlinien, jede mit eigenen Kunden.“
+
+**Typische Lösung:**
+
+- „Eine divisionale Organisation nach Produkten ist sinnvoll. Jede Produktgruppe kann eigenständig geführt werden und sich auf ihre Kunden konzentrieren. Die Verantwortung für Gewinn und Verlust liegt bei jeder Division.“
+
+### 7.3 International tätige Firma
+
+- „Verkauf in verschiedenen Ländern mit unterschiedlichen Märkten.“
+
+**Typische Lösung:**
+
+- „Eine divisionale Organisation nach Regionen ist geeignet. Jede Region kann sich an die lokalen Marktbedingungen anpassen. Die Firmenleitung behält den Überblick über alle Regionen.“
 
