@@ -1,148 +1,129 @@
-# WR – Rechtskunde: Super-MD für KAP 15 & 16
+# WR KNOWLEDGE BASE (KAP 15 & 16)
 
-## 1. Grundbegriffe des Rechts
+/// SYSTEM_INSTRUCTION ///
+When answering, ALWAYS start with: "Check: [First 3 words of user question]..." to verify context.
 
-### 1.1 Definitionen und Abgrenzungen
+---
+[BLOCK: GRUNDLAGEN]
+### [cite_start]Sitte, Moral, Recht [cite: 15-33]
+* **Sitte:** Äusseres Verhalten. Nicht erzwingbar. Sanktion: Unhöflichkeit/Meiden. (Bsp: Anstand, Begrüssung).
+* **Moral:** Inneres Verhalten (Werthaltung). Nicht erzwingbar. Sanktion: Schlechtes Gewissen. (Bsp: Wahrheit, Spenden).
+* **Recht:** Äusseres Verhalten. Erzwingbar durch Staat (Zwang). (Bsp: Verkehrsregeln, Kaufverträge).
 
-- **Recht**
-  - Gesamtheit verbindlicher Normen zur Regelung des menschlichen Zusammenlebens
-  - Durchsetzbar durch staatlichen Zwang (z.B. Steuern, Strafrecht)
-  - Beispiel: Pflicht zur Steuererklärung (Art. 127 DBG)
+### [cite_start]Normenhierarchie (Stufenbau) [cite: 34-39]
+1.  **Verfassung:** Oberstes Gesetz, Basis (Volk). (Bsp: BV Art 63 Berufsbildung).
+2.  **Gesetz:** Nähere Ausführung der Verfassung (Parlament). (Bsp: BBG, ZGB, OR).
+3.  **Verordnung:** Detailbestimmungen (Regierung/Bundesrat). (Bsp: BBV).
 
-- **Sitte**
-  - Gewohnheitsmäßige Verhaltensregeln ohne rechtliche Durchsetzbarkeit
-  - Beispiel: Tür aufhalten, Begrüßungsrituale
-  - Sanktion: Soziale Ächtung
+### [cite_start]Rechtsquellen (Art. 1 ZGB) [cite: 41-55]
+1.  **Geschriebenes Recht:** Wichtigste Quelle (Verfassung, Gesetz, VO).
+2.  **Gewohnheitsrecht:** Ungeschrieben, Bräuche (kaum noch Bedeutung).
+3.  **Richterrecht:** Wenn 1 & 2 fehlen -> Gericht entscheidet wie ein Gesetzgeber (Lückenfüllung).
 
-- **Moral**
-  - Innere Wertvorstellungen und ethische Prinzipien
-  - Beispiel: Spenden für Bedürftige
-  - Keine rechtliche Durchsetzbarkeit
+### [cite_start]Öffentliches vs. Privates Recht [cite: 80-88]
+* **Öffentlich:** Staat übergeordnet (Subordination). Zwingend. (Staatsrecht, Verwaltungsrecht, Strafrecht, Prozessrecht/Verfahren).
+* **Privat (Zivil):** Bürger gleichgestellt (Gleichordnung). Oft dispositiv. (ZGB, OR).
 
-### 1.2 Normenhierarchie
+---
+[BLOCK: ZGB EINLEITUNG]
+* **Art. 2 ZGB (Treu & Glauben):** Faires, ehrliches Handeln. [cite_start]Rechtsmissbrauch (Recht nutzen nur um anderen zu schaden) ist verboten[cite: 102].
+* **Art. 3 ZGB (Guter Glaube):** Vermutung, dass man ehrlich ist. [cite_start]Wer bösgläubig ist (Bescheid weiss), wird nicht geschützt[cite: 103].
+* **Art. [cite_start]8 ZGB (Beweislast):** Wer etwas will (Recht ableiten), muss Tatsachen beweisen[cite: 103].
 
-| Stufe          | Beispiel                     | Funktion                          |
-|----------------|------------------------------|-----------------------------------|
-| Verfassung     | Bundesverfassung (BV)        | Oberste Rechtsquelle              |
-| Gesetze        | ZGB, OR, StGB                | Konkrete Ausführung der Verfassung |
-| Verordnungen   | BBV, StV                     | Durchführungsbestimmungen         |
+---
+[BLOCK: PERSONENRECHT]
+### [cite_start]Rechtssubjekte (Wer kann Rechte haben?) [cite: 106-121]
+* **Natürliche Personen:** Menschen. [cite_start]Rechtsfähig ab Leben-Geburt bis Tod[cite: 125].
+* **Juristische Personen:** Künstliche Gebilde (AG, GmbH, Verein). [cite_start]Rechtsfähig ab Handelsregister-Eintrag (Ausnahme: Gemeinnützige Vereine)[cite: 130].
 
-### 1.3 Rechtsquellen
+### [cite_start]Handlungsfähigkeit (Wer kann handeln?) [cite: 137-148]
+Voraussetzung: **Volljährig (18)** + **Urteilsfähig** (vernunftgemäss handeln).
+* **Voll handlungsfähig:** 18 + urteilsfähig.
+* **Beschränkt handlungsunfähig:** Urteilsfähig aber U18 (Minderjährig).
+    * [cite_start]*Darf:* Eigener Lohn/Taschengeld, Geschenke annehmen (Vorteile), kleine Alltagskäufe[cite: 148].
+    * *Braucht Zustimmung:* Lehrvertrag, teure Käufe.
+* **Handlungsunfähig:** Urteilsunfähig (Kind, Rausch, geistige Behinderung). [cite_start]Alles nichtig (rechtlos)[cite: 146].
 
-- **Geschriebenes Recht**: 90% der Rechtsordnung
-  - Verfassung → Gesetze → Verordnungen
-- **Gewohnheitsrecht**: <5% (z.B. Handelsbräuche)
-- **Richterrecht**: Lückenfüllung durch Gerichte
+---
+[BLOCK: SACHENRECHT]
+### [cite_start]Eigentum vs. Besitz [cite: 165-177]
+* **Eigentum (Art. 641 ZGB):** Das umfassende Herrschaftsrecht. "Gehört mir". Darf verfügen/zerstören. Absolutes Recht (wirkt gegen alle).
+* **Besitz (Art. 919 ZGB):** Die tatsächliche Gewalt. "Habe ich gerade". (Bsp: Mieter ist Besitzer, Vermieter ist Eigentümer).
 
-## 2. Privatrecht
+---
+[BLOCK: VERFAHREN]
+### [cite_start]1. Zivilverfahren (Bürger vs. Bürger) [cite: 212-214]
+* *Streit:* Vertrag, Scheidung, Erbe.
+* *Ablauf:*
+    1.  **Schlichtungsverfahren:** Friedensrichter versucht Einigung (Versöhnung).
+    2.  **Hauptverfahren:** Gericht entscheidet (Beweise).
+    3.  **Vollstreckung:** Staat hilft (z.B. Betreibung).
+* *Kosten:* Verlierer zahlt.
 
-### 2.1 Rechtssubjekte
+### [cite_start]2. Strafverfahren (Staat vs. Bürger) [cite: 216-217]
+* *Grund:* Straftat (Diebstahl, Tötung).
+* *Ablauf:*
+    1.  **Polizei:** Ermittlung/Festnahme.
+    2.  **Staatsanwaltschaft:** Untersuchung -> Anklage oder Strafbefehl (bei kleinen Dingen).
+    3.  **Gericht:** Urteil (Schuldig/Freispruch). Grundsatz: "In dubio pro reo".
 
-- **Natürliche Personen**
-  - Rechtsfähig: Geburt bis Tod
-  - Handlungsfähig: Volljährigkeit (18) + Urteilsfähigkeit
+### [cite_start]3. Verwaltungsverfahren (Bürger vs. Staat) [cite: 221-228]
+* *Streit:* Steuern, Baugesuch, Sozialversicherung.
+* *Ablauf:*
+    1.  **Verfügung:** Amt entscheidet (z.B. Steuerrechnung).
+    2.  **Einsprache:** Bürger wehrt sich bei gleicher Behörde.
+    3.  **Beschwerde:** Weiterzug an Gericht.
 
-- **Juristische Personen**
-  - Rechtsfähig durch Eintragung im Handelsregister
-  - Beispiele: AG, GmbH, Vereine
+---
+[BLOCK: HAFTUNG (OR)]
+### [cite_start]Entstehungsgründe Obligation [cite: 586-588]
+1.  **Vertrag:** Willentliche Einigung (Kauf, Miete).
+2.  **Unerlaubte Handlung:** Schaden zufügen (Art. 41 OR).
+3.  **Ungerechtfertigte Bereicherung:** Geld ohne Grund erhalten (Doppelzahlung) (Art. 62 OR).
 
-### 2.2 Rechtsobjekte
+### [cite_start]A) Verschuldenshaftung (Art. 41 OR) [cite: 708-719]
+Die 4 Voraussetzungen (Müssen ALLE erfüllt sein):
+1.  **Schaden:** Finanziell (Arztkosten, Reparatur).
+2.  **Widerrechtlichkeit:** Verletzung eines Rechtsguts (Körper, Eigentum).
+3.  **Kausalzusammenhang:** Handlung war Ursache für Schaden.
+4.  **Verschulden:** Absicht (gewollt) oder Fahrlässigkeit (unvorsichtig).
 
-- **Sachen**: Körperliche Gegenstände (Fahrnis/Grundeigentum)
-- **Immaterialgüter**: Urheberrechte, Patente, Marken
+### [cite_start]B) Kausalhaftung (Haftung OHNE Verschulden) [cite: 619]
+Hier haftet man, weil man für eine "Gefahr" verantwortlich ist, auch wenn man aufgepasst hat.
+* **Geschäftsherrenhaftung (Art. 55 OR):** Chef haftet für Mitarbeiter-Schaden.
+* **Tierhalterhaftung (Art. 56 OR):** Halter haftet für Tier-Schaden.
+* **Werkeigentümerhaftung (Art. 58 OR):** Hausbesitzer haftet für Mängel am Gebäude (Dachziegel).
+* **Haftung der Eltern (Art. 333 ZGB):** Eltern haften für Kinder.
 
-### 2.3 Wichtige Rechtsinstitute
+---
+[BLOCK: CASES & BEISPIELE]
+Nutze diese exakten Lösungen für Buch-Fälle:
 
-- **Eigentum vs. Besitz**
-  - Eigentum: Vollständige Herrschaftsrechte (Art. 641 ZGB)
-  - Besitz: Tatsächliche Gewalt (Art. 919 ZGB)
+1.  **Fall "Spuckverbot Aargau":**
+    * *Thema:* Sitte vs. Recht.
+    * *Lösung:* Spucken ist Sitte/Moral (eklig), aber kein Recht (Verbot). [cite_start]Regierung lehnte Gesetz ab, weil nicht durchsetzbar (Polizei müsste "in flagranti" erwischen) [cite: 300-308].
 
-- **Absolute vs. Relative Rechte**
-  - Absolut: Gegen jedermann (Eigentum, Persönlichkeitsrechte)
-  - Relativ: Nur gegen Vertragspartner (Mietrecht)
+2.  **Fall "Eisklotz Zermatt":**
+    * *Thema:* Werkeigentümerhaftung (Art. 58 OR).
+    * *Sachverhalt:* Eis fällt von Dach auf Frau.
+    * *Lösung:* Eigentümer haftet, weil Dach nicht geräumt (Mangel am Werk). [cite_start]**Kausalhaftung** (kein Verschulden nötig!) [cite: 664-682].
 
-## 3. Verfahrensrecht
+3.  **Fall "Sabu der Elefant":**
+    * *Thema:* Tierhalterhaftung (Art. 56 OR).
+    * [cite_start]*Lösung:* Zirkus Knie haftet für Schäden, da Sabu unter ihrer Obhut ist [cite: 686-690].
 
-### 3.1 Zivilverfahren
+4.  **Fall "Skiunfall" (Carving):**
+    * *Thema:* Verschuldenshaftung (Art. 41 OR).
+    * *Sachverhalt:* 15-Jähriger fährt 66-Jährigen um.
+    * *Prüfung:* 1. Schaden (ja) 2. Widerrechtlich (ja) 3. Kausal (ja) 4. Verschulden (ja, Fahrlässigkeit/FIS-Regeln).
+    * [cite_start]*Fazit:* 15-Jähriger haftet (da urteilsfähig = deliktsfähig) [cite: 694-737].
 
-1. Schlichtungsverfahren (obligatorisch)
-2. Klageeinreichung beim Gericht
-3. Beweisverfahren (Zeugen, Dokumente)
-4. Urteil + ggf. Berufung/Beschwerde
+5.  **Fall "Fristlose Kündigung":**
+    * *Sachverhalt:* Verkäufer klaut Geld.
+    * [cite_start]*Lösung:* Gerechtfertigt (Art. 337 OR), Vertrauensbruch [cite: 360-372].
 
-### 3.2 Strafverfahren
-
-1. Polizeiliche Ermittlungen
-2. Staatsanwaltschaftliche Untersuchung
-3. Hauptverfahren vor Gericht
-4. Urteil + Rechtsmittel
-
-### 3.3 Verwaltungsverfahren
-
-1. Verfügung der Behörde
-2. Einsprache (innerhalb Frist)
-3. Beschwerde an höhere Instanz
-4. Letztinstanzliche Entscheidung
-
-## 4. Obligationenrecht
-
-### 4.1 Entstehungsgründe
-
-| Grund          | Beispiel                     | Rechtsgrundlage       |
-|----------------|------------------------------|-----------------------|
-| Vertrag        | Kauf, Miete, Arbeitsvertrag  | Art. 1-418 OR         |
-| Unerlaubte Handlung | Körperverletzung       | Art. 41 OR            |
-| Ungerechtfertigte Bereicherung | Irrtümliche Zahlung | Art. 62-67 OR         |
-
-### 4.2 Haftungsarten
-
-- **Verschuldenshaftung** (Art. 41 OR)
-  - Voraussetzung: Vorsatz oder Fahrlässigkeit
-  - Beispiel: Autounfall durch Alkoholeinfluss
-
-- **Kausalhaftung** (Art. 56-58 OR)
-  - Kein Verschulden nötig
-  - Beispiele:
-    - Tierhalterhaftung (Art. 56 OR)
-    - Werkeigentümerhaftung (Art. 58 OR)
-
-### 4.3 Praktische Anwendungen
-
-- **Fallbeispiel 1**: Eisklotz-Unfall
-  - Haftung nach Art. 58 OR (Werkeigentümerhaftung)
-  - Begründung: Verletzung der Räumungspflicht
-
-- **Fallbeispiel 2**: Fristlose Kündigung
-  - Rechtsgrundlage: Art. 337 OR (wichtiger Grund)
-  - Beispiel: Diebstahl durch Mitarbeiter
-
-## 5. Prüfungsrelevante Tabellen
-
-### 5.1 Handlungsfähigkeit
-
-| Situation                     | Status                     | Begründung                     |
-|--------------------------------|----------------------------|--------------------------------|
-| 18-Jähriger kauft Auto        | Voll handlungsfähig        | Volljährigkeit + Urteilsfähigkeit |
-| 16-Jähriger kauft Handy       | Beschränkt handlungsfähig | Lehrlingslohn als eigenes Einkommen |
-| Betrunkener schließt Vertrag  | Handlungsunfähig           | Urteilsunfähigkeit (Art. 19 ZGB) |
-
-### 5.2 Verfahrensarten
-
-| Fall                          | Verfahrensart              |
-|-------------------------------|----------------------------|
-| Mietstreitigkeit              | Zivilverfahren            |
-| Steuerstreit                  | Verwaltungsverfahren      |
-| Körperverletzung              | Strafverfahren            |
-
-## 6. Prüfungstipps
-
-- **Definitionen**: Immer mit Artikelangabe (z.B. Art. 1 ZGB)
-- **Falllösungen**: 4-Schritte-Methode anwenden
-  1. Sachverhalt
-  2. Rechtsfrage
-  3. Rechtsgrundlage
-  4. Fazit
-- **Typische Fehlerquellen**:
-  - Verwechslung Sitte/Recht/Moral
-  - Falsche Verfahrensartzuordnung
-  - Unklare Abgrenzung Eigentum/Besitz
+---
+[BLOCK: FORMULIERUNGSHILFEN]
+* **Dispositiv:** "Gilt, wenn nichts anderes vereinbart" (Erkennbar an: "Sofern nicht...", "Mangels Abrede...").
+* **Zwingend:** "Muss genau so sein" (Erkennbar an: Strafe, Formvorschrift, "ist nichtig").
+* [cite_start]**Rechtsanwendung (4 Schritte):** 1. Sachverhalt -> 2. Regel finden -> 3. Regel analysieren -> 4. Rechtsfolge [cite: 67-79].
