@@ -1,63 +1,69 @@
-# [KAUFVERTRAG - OR 184-215]
+# [08 - KAUFVERTRAG OR 184-215]
 
-## A) DEFINITION (OR 184)
-* Kaufvertrag: Übereignung einer Sache gegen Zahlung eines Preises.
-* Eigentumsübergang bei Vertragsabschluss (Art. 714 ZGB).
-* Unterschied zu Miete: Eigentum geht über!
-
----
-
-## B) NUTZEN UND GEFAHR - OR 185
-
-### 1. SPEZIESKAUF (Unikat/Gebrauchtware)
-* Einzelne, spezifische Sache.
-* Übergang von Nutzen und Gefahr **bei Vertragsabschluss**.
-
-### 2. GATTUNGSKAUF (Massenware)
-* **Platzkauf:** Übergang bei Bereitstellung/Aussortieren.
-* **Distanzkauf:** Übergang bei Übergabe an Spediteur/Post.
-
-### 3. KAUF FÜR WIEDERVERKAUF (OR 190)
-* Wenn Verkäufer im Lieferverzug:
-* **Automatisch wird vermutet:** Käufer verzichtet und fordert Schadenersatz wegen Nichterfüllung.
+## DEFINITION (Art. 184 OR)
+- Kaufvertrag = Übereignung einer Sache gegen Zahlung eines Kaufpreises.
+- Eigentumsübergang (Art. 714 ZGB).
+- Unterschied zu Miete: Eigentum GEHT ÜBER.
 
 ---
 
-## C) PFLICHTEN KÄUFER (OR 201)
-1. **Sofortige Prüfung** nach Erhalt.
-2. **Sofortige Mängelrüge** (sonst gilt als genehmigt).
-* Uhrzeit: Mängel müssen sofort gemeldet werden.
+## NUTZEN UND GEFAHR (Art. 185 OR)
+
+### Spezieskauf (Unikat/Gebrauchte Sache)
+- Übergang von Nutzen und Gefahr: Bei VERTRAGSABSCHLUSS.
+
+### Gattungskauf (Massenware/Neuware)
+- **Platzkauf:** Übergang bei Bereitstellung/Aussortieren.
+- **Distanzkauf:** Übergang bei Übergabe an Spediteur/Post.
 
 ---
 
-## D) RECHTE KÄUFER BEI MÄNGELN (OR 205/206)
-
-### 1. WANDLUNG
-* Vertrag rückgängig machen.
-* Rückgabe der Sache, Rückerstattung des Preises.
-
-### 2. MINDERUNG
-* Preisnachlass wegen Mangel.
-* Verhältnismässige Reduktion.
-
-### 3. ERSATZ
-* Neue, fehlerfreie Ware liefern.
-* Gleiches Modell oder gleichwertiger Ersatz.
+## PFLICHTEN KÄUFER (Art. 201 OR)
+1. **Sofortige Prüfung** nach Erhalt der Ware.
+2. **Sofortige Mängelrüge** bei entdeckten Mängeln.
+- Versäumnis: Ware gilt als GENEHMIGT. Keine Rechte mehr.
 
 ---
 
-## E) WICHTIGE FALLE!
-* **OR sieht KEINEN Nachbesserungsanspruch (Reparatur) vor!**
-* Ausser: vertraglich explizit abgemacht.
-* Unterschied zu Miete: Bei Miete kann man Reparatur verlangen (OR 259a).
+## RECHTE KÄUFER BEI MÄNGELN (Art. 205/206 OR)
+
+### 1. Wandelung (Art. 205 OR)
+- Vertrag rückgängig machen.
+- Rückgabe Sache, Rückerstattung Preis.
+
+### 2. Minderung (Art. 205 OR)
+- Preisnachlass wegen Mangel.
+
+### 3. Ersatzlieferung (Art. 206 OR)
+- Neue, fehlerfreie Ware (nur bei Gattungskauf).
+
+### KRITISCHE FALLE:
+- OR sieht KEINEN Nachbesserungsanspruch (Reparatur) vor!
+- Ausser: Vertraglich explizit vereinbart.
+- Unterschied zu Miete: Bei Miete KANN man Reparatur verlangen (Art. 259a OR).
 
 ---
 
-## F) UNTERSCHIED MIETE vs. KAUF
+## KAUFMÄNNISCHER VERKEHR (Art. 190 OR)
+- Kauf für Wiederverkauf + Verkäufer im Lieferverzug:
+- Automatische Vermutung: Käufer verzichtet und fordert Schadenersatz wegen Nichterfüllung.
 
-| Aspekt | Miete | Kauf |
-|--------|-------|------|
-| Eigentum | Bleibt beim Vermieter | Geht an Käufer |
-| Leistung | Gebrauchsüberlassung | Eigentumsübertragung |
-| Bei Unmöglichkeit | Mietzinsreduktion/Kündigung | Wandlung/Minderung |
-| Bei Mangel | Vermieter repariert (OR 259a) | KEINE Nachbesserung! |
+---
+
+## VERGLEICH MIETE vs. KAUF
+
+### Eigentum:
+- Miete: Bleibt beim Vermieter.
+- Kauf: Geht an Käufer über.
+
+### Leistung:
+- Miete: Gebrauchsüberlassung.
+- Kauf: Eigentumsübertragung.
+
+### Bei Mangel:
+- Miete: Mängelbeseitigung möglich (Art. 259a OR).
+- Kauf: KEINE Nachbesserung! Nur Wandelung/Minderung/Ersatz.
+
+### Bei Unmöglichkeit:
+- Miete: Mietzinsreduktion oder Kündigung.
+- Kauf: Forderung erlischt (Art. 119 OR).
