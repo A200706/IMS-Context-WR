@@ -1,76 +1,63 @@
-# [VERTRAGSLEHRE - OR 1-40]
+# [07 - VERTRAGSLEHRE OR 1-40]
 
-## A) VERTRAGSABSCHLUSS
-* Angebot und Annahme.
-* Übereinstimmung von Willenserklärungen.
-* Form (schriftlich/mündlich) je nach Vertragstyp.
+## VERTRAGSMÄNGEL (OR 20-31)
 
----
+### NICHTIGKEIT (Art. 20 OR)
+- Vertrag ist unwirksam von Anfang an.
+- Gründe: Unmöglich, widerrechtlich, sittenwidrig.
+- Auch bei Formmängeln (wenn zwingende Form nicht eingehalten).
 
-## B) VERTRAGSMÄNGEL - OR 20-31
+### ANFECHTBARKEIT (Art. 21-31 OR)
+- Vertrag gültig, aber innert 1 Jahr anfechtbar.
+- Nach 1 Jahr ohne Anfechtung = genehmigt.
 
-### 1. NICHTIGKEIT (OR 20)
-* Vertrag unwirksam wenn:
-  * Unmöglich (objektiv nicht erfüllbar).
-  * Widerrechtlich (gegen Gesetz).
-  * Sittenwidrig (gegen gute Sitten).
-* Auch bei Formmängeln.
+### Wesentlicher Irrtum (Art. 23/24 OR)
+- **Erklärungsirrtum:** Ich meine A, sage aber B.
+- **Grundlagenirrtum:** Wichtige Eigenschaft fehlt (z.B. Kunstfälschung).
+- Folge: Vertrag anfechtbar innert 1 Jahr.
 
-### 2. ANFECHTBARKEIT (OR 21-31)
-* Vertrag ist gültig, aber innert 1 Jahr anfechtbar.
-* Nach 1 Jahr gilt als genehmigt.
+### Unwesentlicher Irrtum (Art. 24 Abs. 2 OR)
+- Reiner Motivirrtum.
+- Beispiel: Hochzeit fällt aus, Geschenk NICHT anfechtbar.
+- Keine Anfechtung möglich.
 
-### 3. WESENTLICHER IRRTUM (OR 23/24)
-* **Erklärungsirrtum:** Ich meine A, sage aber B.
-* **Grundlagenirrtum:** Ich weiss nicht dass Kunstfälschung (wichtige Eigenschaft).
-* **Übermittlungsirrtum:** Telefon/Telex fehlerhaft übermittelt.
+### Absichtliche Täuschung (Art. 28 OR)
+- Arglistige Irreführung.
+- Beispiel: Tacho manipuliert, Mängel verschwiegen.
 
-### 4. UNWESENTLICHER IRRTUM (OR 24 Abs. 2)
-* Reiner Motivirrtum.
-* Beispiel: "Hochzeit fällt aus" = Geschenk kann NICHT angefochten werden.
-* Nur wichtige Eigenschaften zählen.
+### Furchterregung / Drohung (Art. 29 OR)
+- Drohung mit unrechtmässiger Handlung.
 
-### 5. ABSICHTLICHE TÄUSCHUNG (OR 28)
-* List, betrügerische Absicht.
-* Beispiel: Tacho manipuliert, Zustand verschwiegen.
-
-### 6. FURCHTERREGUNG / DROHUNG (OR 29)
-* Drohung mit unrechtmässiger Handlung.
-* Auch Androhung von Straftaten.
-
-### 7. ÜBERVORTEILUNG (OR 21)
-* Offenbares Missverhältnis zwischen Leistung und Gegenleistung.
-* Plus: Notlage oder Leichtsinn des Benachteiligten ausgenutzt.
+### Übervorteilung (Art. 21 OR)
+- Offenbares Missverhältnis zwischen Leistung und Gegenleistung.
+- PLUS: Notlage oder Leichtsinn des Benachteiligten ausgenutzt.
 
 ---
 
-## C) SCHULDNERVERZUG - OR 102-109
+## SCHULDNERVERZUG (OR 102-109)
 
-### 1. MAHNUNG (OR 102)
-* "So bald wie möglich" Geschäft.
-* Verzug tritt erst nach Mahnung ein.
-* Gläubiger muss Mahnung schicken.
+### Mahngeschäft (Art. 102 OR)
+- "So bald wie möglich."
+- Verzug tritt ERST nach Mahnung ein.
 
-### 2. VERFALLTAG (OR 103)
-* "Bis 30. Juni" Geschäft.
-* Verzug automatisch am vereinbarten Termin.
-* Keine Mahnung nötig.
+### Verfalltagsgeschäft (Art. 102 Abs. 2 OR)
+- "Bis 30. Juni."
+- Verzug automatisch am Termin. Keine Mahnung nötig.
 
-### 3. FIXGESCHÄFT (OR 108)
-* Hochzeitskleid,terminierte Lieferung.
-* Verzug automatisch, keine Nachfrist nötig.
-* Beschleunigte Verfahren.
+### Fixgeschäft (Art. 108 OR)
+- Beispiel: Hochzeitskleid.
+- Verzug automatisch, keine Nachfrist nötig.
 
-### 4. VORGEHEN BEI VERZUG (OR 107)
-* **Schritt 1:** Nachfrist setzen (ausser Fixgeschäft).
-* **Schritt 2:** Wahlrecht des Gläubigers:
-  * A. Erfüllung fordern + Verspätungsschaden.
-  * B. Verzichten + Erfüllungsinteresse.
-  * C. Rücktritt + Vertrauensinteresse.
+### Vorgehen bei Verzug (Art. 107 OR)
+1. Nachfrist setzen (ausser Fixgeschäft).
+2. Wahlrecht des Gläubigers:
+   - A. Erfüllung fordern + Verspätungsschaden.
+   - B. Verzichten auf Erfüllung + Erfüllungsinteresse (Differenz).
+   - C. Rücktritt + Vertrauensinteresse (negative Vertragsinteresse).
 
 ---
 
-## D) UNMÖGLICHKEIT - OR 119
-* Objektiv unmögliche Leistung.
-* Forderung erlischt.
-* bereits erbrachte Gegenleistungen müssen zurückerstattet werden.
+## UNMÖGLICHKEIT (Art. 119 OR)
+- Objektiv unmögliche Leistung.
+- Forderung erlischt.
+- Bereits erbrachte Gegenleistungen: Rückerstattung (ungerechtfertigte Bereicherung).
