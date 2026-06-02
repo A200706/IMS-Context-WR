@@ -1,62 +1,71 @@
-# [MIETVERTRAG: FRISTEN & KÜNDIGUNG]
+# [04 - KÜNDIGUNG & FRISTEN]
 
-## A) KÜNDIGUNGSFRISTEN
-* **Wohnung:** 3 Monate Frist (OR 266c)
-* **Geschäftsraum:** 6 Monate Frist (OR 266d)
-* **Möbliertes Zimmer:** 2 Wochen (OR 266e)
-* **Bewegliche Sache:** 3 Tage (OR 266f)
+## A) KÜNDIGUNGSFRISTEN (ordentliche Kündigung)
+- **Wohnung:** 3 Monate (Art. 266c OR)
+- **Geschäftsraum:** 6 Monate (Art. 266d OR)
+- **Möbliertes Zimmer:** 2 Wochen (Art. 266e OR)
+- **Bewegliche Sache:** 3 Tage (Art. 266f OR)
 
-## B) FAMILIENWOHNUNG - BESONDERS WICHTIG!
-* **Mindestfrist: 6 Monate** (OR 266a Abs. 2)
-* NICHT 3 Monate wie normale Wohnung!
-* Dies ist eine FALLE in Prüfungen.
+## B) KÜNDIGUNGSTERMINE (Art. 266a OR)
+- Ordentliche Kündigung erfolgt auf einen KÜNDIGUNGSTERMIN.
+- **Bern:** 30. April / 31. Oktober (ortsüblich).
+- **Ohne Ortsgebrauch:** Ende einer 3-monatigen Mietdauer (ausser 31. Dezember).
+- ACHTUNG: Kündigungstermin ist NICHT dasselbe wie Periodenende!
 
-## C) KÜNDIGUNGSTERMINE
-* **Ortsüblich** oder auf Ende einer 3-Monatigen Mietdauer.
-* Ausser 31. Dezember (kein Termin!).
-* **Bern:** 30. April / 31. Oktober
-* **Andere Kantone:** Monatsende (ausser Dezember)
-
-## D) EINTREFFEN (KRITISCHE FALLE!)
-* **Empfangstheorie:** Kündigung muss am letzten Kündigungstag beim Empfänger SEIN.
-* Poststempel reicht NICHT!
-* Es zählt der tatsächliche Empfang.
+## C) EMPFANGSTHEORIE (KRITISCHE FALLE!)
+- Kündigung muss am letzten Tag der Frist beim Empfänger EINGETROFFEN sein.
+- Poststempel reicht NICHT.
+- Es zählt der tatsächliche Empfang.
 
 ---
 
-# [FORMVORSCHRIFTEN OR 266l-o]
+## FORMVORSCHRIFTEN (Art. 266l-o OR)
 
-## A) WER KÜNDIGT?
-* **Mieter kündigt:** Schriftlich (Einschreiben empfohlen).
-* **Vermieter kündigt:** Zwingend auf amtlichem Formular.
+### WER KÜNDIGT? (PRÜFUNGSFALLE!)
+- **Mieter kündigt:** Schriftlich genügt (Art. 266l Abs. 1 OR). Einschreiben empfohlen.
+- **Vermieter kündigt:** Zwingend auf amtlichem Formular (Art. 266l Abs. 2 OR).
 
-## B) FAMILIENWOHNUNG (OR 266m-o) - KRITISCH!
-* **Mieter kündigt:** Beide Eheleute müssen unterschreiben (OR 266m).
-* **Vermieter kündigt:** Kündigung an beide Eheleute in separaten Briefen (OR 266n).
-* **Folge bei Fehler:** Kündigung ist NICHTIG (ungültig) (OR 266o).
-
-## C) VORZEITIGER AUSZUG (OR 264)
-* 1 zumutbarer + zahlungsfähiger Nachmieter reicht.
-* Nachmieter übernimmt den Vertrag zu gleichen Bedingungen.
-* Vermieter kann nur mit triftigem Grund ablehnen.
+### FAMILIENWOHNUNG (Art. 266m-o OR)
+- **Mieter kündigt:** Beide Ehegatten müssen unterschreiben (Art. 266m OR).
+- **Vermieter kündigt:** Kündigung in separaten Briefen an BEIDE Ehegatten (Art. 266n OR).
+- **Folge bei Fehler:** Kündigung ist NICHTIG = ungültig (Art. 266o OR).
+- Frist: Gleich wie normale Wohnung = 3 Monate (Art. 266c OR).
+- Die Spezialregeln betreffen die FORM, nicht die Frist!
 
 ---
 
-# [AUSSERORDENTLICHE KÜNDIGUNG OR 266g]
-* Jederzeit möglich bei wichtigem Grund.
-* Wichtiger Grund: Fortsetzung unzumutbar.
-* Beispiele: Schwere Beleidigung, massive Mietzinsverletzung.
+## AUSSERORDENTLICHE KÜNDIGUNG (Art. 266g OR)
+- Jederzeit möglich bei WICHTIGEM GRUND.
+- Wichtiger Grund = Fortsetzung des Mietverhältnisses ist unzumutbar.
+- Beispiele: Schwere Beleidigung, massive Vertragsverletzung.
 
 ---
 
-# [KÜNDIGUNGSSCHUTZ OR 271]
+## ZAHLUNGSVERZUG (Art. 257d OR) - 30+30 REGEL
 
-## A) ANFECHTUNG
-* Bei Schlichtungsbehörde.
-* **Frist: 30 Tage** ab Erhalt.
-* Grund: Verstoss gegen Treu und Glauben (Rachekündigung).
+**Schritt 1:** Schriftliche Mahnung + Nachfrist mindestens 30 Tage + Kündigungsandrohung.
+**Schritt 2:** Nach Fristablauf ohne Zahlung: Kündigung mit weiteren 30 Tagen Frist.
 
-## B) ERSTRECKUNG (OR 272)
-* Bei Härtefall.
-* Max 4 Jahre (Wohnung).
-* Max 6 Jahre (Geschäft).
+- FALSCH: "Nach 2 Monaten kann Vermieter fristlos kündigen."
+- RICHTIG: Erst Mahnung + 30 Tage, DANN Kündigung + 30 Tage.
+
+---
+
+## VORZEITIGER AUSZUG (Art. 264 OR)
+- 1 zumutbarer + zahlungsfähiger Nachmieter reicht.
+- Nachmieter muss Vertrag zu gleichen Bedingungen übernehmen.
+- Vermieter kann nur mit triftigem Grund ablehnen.
+
+---
+
+## KÜNDIGUNGSSCHUTZ (Art. 271-272d OR)
+
+### Anfechtung (Art. 271 OR)
+- Bei Schlichtungsbehörde.
+- Frist: 30 Tage ab Erhalt der Kündigung (Art. 273 Abs. 1 OR).
+- Grund: Verstoss gegen Treu und Glauben (z.B. Rachekündigung).
+
+### Erstreckung (Art. 272 OR)
+- Bei Härtefall.
+- Max 4 Jahre (Wohnung).
+- Max 6 Jahre (Geschäft).
