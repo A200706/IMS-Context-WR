@@ -1,57 +1,27 @@
-# [MIETZINSANFECHTUNG - OR 270 ff.]
+# [06 - RÜCKGABE & ERNEUERUNG]
 
-**Dieses Dokument fehlte komplett in den RAW-Links!**
+## RÜCKGABE DER MIETSACHE (Art. 267-267a OR)
 
----
+### Pflicht Mieter (Art. 267 OR)
+- Sache in ordnungsgemässem Zustand zurückgeben.
+- Normale Abnutzung ist erlaubt (kein Schadenersatz).
+- Übermässige Abnutzung = Mieter zahlt.
 
-## A) GRÜNDE FÜR ANFECHTUNG (OR 270)
-* **Erhöhung des Mietzinses** ohne begründete Erhöhung.
-* **Missbräuchlicher Mietzins** bei Vertragsabschluss.
-* **Ungenügende Begründung** der Erhöhung.
+### Pflicht Vermieter (Art. 267a OR)
+- Zustand bei Rückgabe sofort prüfen.
+- Mängel sofort rügen (schriftlich).
+- Versäumte Rüge = Vermieter verliert Anspruch.
 
-## B) 30-TAGE-FRIST (OR 270g)
-* **Innert 30 Tagen** nach Empfang der Erhöhung oder Mitteilung.
-* **Fristbeginn:** Datum des Empfangs (nicht Versand!).
-* **Versäumung:** Anfechtungsrecht geht verloren = Anfechtung unzulässig.
+## LEBENSDAUERPRINZIP
+- Jeder Gegenstand hat eine Lebensdauer (z.B. Teppich 10 Jahre, Küche 25 Jahre).
+- Mieter zahlt nur den Restwert bei vorzeitiger Beschädigung.
+- Beispiel: Teppich (Lebensdauer 10 J.), nach 7 Jahren beschädigt = Mieter zahlt nur 3/10 der Kosten.
 
-## C) VERFAHREN
-* **Zuständig:** Schlichtungsbehörde des Kantons.
-* **Schritt 1:** Anmeldung innert 30 Tagen.
-* **Schritt 2:** Schlichtungsversuch.
-* **Schritt 3:** Entscheid oder Weiterzug an Gericht.
-* **WICHTIG:** Schlichtungsbehörde entscheidet NICHT endgültig! Weiterzug möglich.
+## STILLSCHWEIGENDE ERNEUERUNG (Art. 266 OR)
+- Befristeter Mietvertrag: Endet automatisch.
+- Wenn Mieter nach Ablauf weiter nutzt und Vermieter nicht widerspricht: Vertrag wird unbefristet.
 
----
-
-## D) MIETZINSERHÖHUNG (OR 270a)
-
-**Zulässige Erhöhungsgründe:**
-1. Kostensteigerung (Teuerung).
-2. Erhöhte Unterhaltskosten.
-3. Neue öffentliche Abgaben.
-4. Erhöhter Eigenkapitalzins.
-
-**Unzulässig:**
-* Willkürliche Erhöhung ohne Nachweis.
-* Modernisierung ohne Kostensteigerung.
-
----
-
-## E) REFERENZZINSSATZ (OR 266a)
-* Wird von BFS veröffentlicht (Bundesamt für Statistik).
-* Aktuell: 2.50% (Stand 2024).
-* Mietzinsanpassung nur bei Referenzzinssatz-Änderung.
-* Mieter kann bei Senkung Herabsetzung verlangen.
-
----
-
-## F) MULTIPLE CHOICE TYPISCHE FRAGEN
-
-**Frage:** Welche Aussage zur Mietzinsanfechtung ist korrekt?
-
-* ❌ a) Die Anfechtung muss innerhalb von 30 Tagen erfolgen. (RICHTIG!)
-* ❌ b) Der Mietzins darf nach erfolgreicher Anfechtung um max. 10% gesenkt werden. (FALSCH - keine Prozentgrenze)
-* ❌ c) Die Schlichtungsbehörde entscheidet endgültig. (FALSCH - Weiterzug möglich)
-* ❌ d) Die Anfechtung ist nur bei missbräuchlichem Mietzins möglich. (FALSCH - auch bei Erhöhung ohne Grund)
-
-**Antwort a) ist die einzig korrekte Aussage!**
+## RETENTIONSRECHT DES VERMIETERS (Art. 268-268b OR)
+- Vermieter kann bewegliche Sachen des Mieters zurückbehalten.
+- Sicherung für ausstehende Mietzinse.
+- Nur Sachen die sich in der Mietsache befinden.
