@@ -1,69 +1,58 @@
-# [MIETVERTRAG: UNTERHALT & MÄNGEL]
+# [03 - MÄNGEL & UNTERHALT]
 
-## A) KLEINER UNTERHALT (MIETER)
-* Kleinere Reparaturen & Reinigung.
-* Beispiele: Glühbirnen, Duschschlauch, Backblech.
-* **Richtwert: CHF 150.-**. Auf eigene Kosten.
+## A) KLEINER UNTERHALT = MIETER (Art. 259 OR)
+- Kleinere Reparaturen und Reinigung.
+- Beispiele: Glühbirnen, Duschschlauch, Backblech, verstopfter Abfluss.
+- **Richtwert: ca. CHF 150.-**
+- Mieter zahlt selber.
 
-## B) MÄNGEL (VERMIETER)
-* Grosse Defekte und Schäden.
-* Beispiele: Heizung, Kühlschrank, Feuchtigkeitsschäden, Schimmel.
-* Vermieter repariert auf eigene Kosten.
+## B) MÄNGEL = VERMIETER (Art. 259a ff. OR)
+- Grosse Defekte und Schäden.
+- Beispiele: Heizung kaputt, Kühlschrank defekt, Schimmel, Feuchtigkeitsschäden.
+- Vermieter muss auf eigene Kosten reparieren.
 
-## C) PFLICHT MIETER
-* **Mängel sofort melden** (OR 257g).
-* Sonst schadenersatzpflichtig wegen Unterlassung.
-* Überraschende Schäden = sofortige Anzeigepflicht.
+## C) MÄNGELANZEIGE (Art. 257g OR)
+- Mieter MUSS Mängel sofort melden.
+- Unterlässt er dies: Mieter wird schadenersatzpflichtig.
 
-## D) DULDUNGSPFLICHT
-* Handwerker / Vermieter für Reparaturen reinlassen (OR 257h).
-* Muss zumutbare Zeitfenster akzeptieren.
-* Bei Weigerung: Schadenersatz möglich.
+## D) DULDUNGSPFLICHT (Art. 257h OR)
+- Mieter muss Handwerker/Vermieter für Reparaturen reinlassen.
 
 ---
 
-# [MÄNGELRECHTE MIETER OR 259a ff.]
+## MÄNGELRECHTE MIETER (Art. 259a ff. OR)
 
-**Voraussetzung:** Mangel wurde gemeldet.
+**Voraussetzung:** Mangel wurde dem Vermieter gemeldet.
 
-## 1. Mängelbeseitigung (OR 259a)
-* Mieter kann Beseitigung verlangen.
-* Verhältnismässigkeit beachten.
+### Recht 1: Mängelbeseitigung (Art. 259a OR)
+- Mieter kann Beseitigung des Mangels verlangen.
 
-## 2. Mietzinsherabsetzung (OR 259d)
-* Ab Kenntnis bis zur Behebung.
-* Verhältnismässige Reduktion.
+### Recht 2: Mietzinsherabsetzung (Art. 259d OR)
+- Verhältnismässige Reduktion ab Kenntnis des Vermieters bis Behebung.
 
-## 3. Schadenersatz (OR 259e)
-* Bei Verschulden des Vermieters.
-* Also nur wenn Vermieter Schuld trifft.
+### Recht 3: Schadenersatz (Art. 259e OR)
+- NUR bei Verschulden des Vermieters.
+- Vermieter muss beweisen, dass ihn KEIN Verschulden trifft (Exkulpation).
 
-## 4. Mietzinshinterlegung (OR 259g)
-* **Zwingend:** Erst schriftlich Frist setzen + Hinterlegung androhen!
-* Dann hinterlegen bei kantonaler Stelle.
-* Vermieter kann bei Behebung Forderung stellen.
+### Recht 4: Mietzinshinterlegung (Art. 259g OR)
+- **ZWINGEND:** Erst schriftlich Frist setzen + Hinterlegung androhen.
+- Dann hinterlegen bei kantonaler Stelle.
+- NICHT einfach Miete zurückbehalten!
 
-## 5. Fristlose Kündigung (OR 259b)
-* Bei schwerem Mangel + Vermieter untätig.
-* Ausserordentliche Kündigung möglich.
+### Recht 5: Fristlose Kündigung (Art. 259b lit. a OR)
+- Bei schwerem Mangel + Vermieter untätig nach Fristsetzung.
 
 ---
 
-# [BEWEISLAST BEI MÄNGELN]
+## BEWEISLAST BEI MÄNGELN
 
-**Grundsatz (OR 8 ZGB):**
-* Wer etwas behauptet, muss es beweisen.
+**Grundsatz: Art. 8 ZGB - Wer behauptet, muss beweisen.**
 
 **Mieter muss beweisen:**
-* Mangel exists at time of handover
-* Ursache des Schadens
-* Kausalzusammenhang zwischen Mangel und Schaden
+- Dass ein Mangel vorliegt.
+- Dass ein Schaden entstanden ist.
+- Kausalzusammenhang (Mangel verursachte Schaden).
 
-**Vermieter muss beweisen (Exkulpation):**
-* Ihm trifft kein Verschulden am Mangel
-* Mangel war bei Übergabe nicht vorhanden
-* Mangel durch Mieter verursacht
-
-**Folge:**
-* Mieter beweist → Vermieter muss Exkulpation beweisen
-* Vermieter kann nicht beweisen → haftet für Schaden
+**Vermieter muss beweisen (Exkulpation, Art. 259e OR):**
+- Dass ihn KEIN Verschulden am Mangel trifft.
+- Gelingt ihm das nicht: Vermieter haftet.
