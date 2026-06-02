@@ -1,75 +1,56 @@
-# [7CAL KRITISCHE FALLEN - PRÜFUNGSHILFE]
+# [09 - PRÜFUNGSFALLEN & ANTI-FEHLER]
 
-**Diese 10 Regeln führen zu Punktabzug wenn falsch:**
+## FALLE 1: WER KÜNDIGT?
+- Mieter = schriftlich genügt (Art. 266l Abs. 1 OR)
+- Vermieter = amtliches Formular ZWINGEND (Art. 266l Abs. 2 OR)
+- IMMER zuerst prüfen: Wer kündigt?
 
----
+## FALLE 2: FAMILIENWOHNUNG = FORM, NICHT FRIST
+- Frist = gleich wie normale Wohnung: 3 Monate (Art. 266c OR)
+- Spezialregel = FORM: Beide Ehegatten (Art. 266m/266n OR)
+- Fehler = NICHTIGKEIT (Art. 266o OR)
 
-## 1. FAMILIENWOHNUNG = 6 MONATE
-❌ FALSCH: 3 Monate (wie normale Wohnung)
-✅ RICHTIG: Mindestens 6 Monate (OR 266a Abs. 2)
+## FALLE 3: ZAHLUNGSVERZUG = 30+30
+- NICHT sofort fristlos kündigen!
+- Erst: Mahnung + 30 Tage Nachfrist (Art. 257d Abs. 1 OR)
+- Dann: Kündigung + 30 Tage (Art. 257d Abs. 2 OR)
 
----
+## FALLE 4: KLEIN vs. GROSS
+- Klein (~150 CHF) = Mieter zahlt (Art. 259 OR)
+- Gross = Vermieter zahlt (Art. 259a OR)
 
-## 2. ORDENTLICHE KÜNDIGUNG = TERMIN
-❌ FALSCH: Auf Ende einer Mietzins-Periode
-✅ RICHTIG: Auf einen Kündigungstermin (OR 266a Abs. 1)
+## FALLE 5: BEWEISLAST MÄNGEL
+- Mieter beweist: Mangel + Schaden + Kausalität
+- Vermieter beweist: Kein Verschulden (Exkulpation, Art. 259e OR)
 
----
+## FALLE 6: MIETZINSHINTERLEGUNG ≠ ZURÜCKBEHALTEN
+- FALSCH: Miete einfach nicht zahlen
+- RICHTIG: Erst schriftlich Frist setzen + androhen, DANN hinterlegen (Art. 259g OR)
 
-## 3. ZAHLUNGSVERZUG = 30+30 REGEL
-❌ FALSCH: Nach 2 Monaten fristlos kündigen
-✅ RICHTIG: Mahnung + 30 Tage + Kündigung + 30 Tage (OR 257d)
+## FALLE 7: EMPFANGSTHEORIE
+- Poststempel reicht NICHT
+- Kündigung muss beim Empfänger EINGETROFFEN sein
 
----
+## FALLE 8: SCHLICHTUNGSBEHÖRDE ≠ ENDGÜLTIG
+- Schlichtungsbehörde entscheidet NICHT endgültig
+- Weiterzug an Gericht ist IMMER möglich
 
-## 4. KLEIN vs. GROSS UNTERHALT
-❌ FALSCH: Vermieter zahlt alles
-✅ RICHTIG: Klein (~150 CHF) = Mieter / Gross = Vermieter (OR 259)
+## FALLE 9: KAUF = KEINE REPARATUR
+- OR sieht KEINEN Nachbesserungsanspruch vor (Art. 205/206 OR)
+- Nur: Wandelung, Minderung, Ersatz
+- Unterschied zu Miete: Dort IST Reparatur möglich (Art. 259a OR)
 
----
+## FALLE 10: KÜNDIGUNGSTERMIN ≠ PERIODENENDE
+- Ordentliche Kündigung = auf Kündigungstermin (Art. 266a OR)
+- Bern: 30. April / 31. Oktober
+- NICHT auf "Ende einer Mietzinszahlungsperiode"
 
-## 5. BEWEISLAST MÄNGEL
-❌ FALSCH: Vermieter beweist alles
-✅ RICHTIG: Mieter = Mangel+Schaden / Vermieter = kein Verschulden
+## FALLE 11: AUSSERORDENTLICHE KÜNDIGUNG
+- Kann jederzeit erfolgen (Art. 266g OR)
+- ABER: Braucht wichtigen Grund (Fortsetzung unzumutbar)
+- Beides ist gleichzeitig wahr: "jederzeit" + "wichtiger Grund"
 
----
-
-## 6. MIETZINSANFECHTUNG = 30 TAGE
-❌ FALSCH: 60 Tage oder 1 Monat
-✅ RICHTIG: Innert 30 Tagen (OR 270g)
-
----
-
-## 7. SCHLICHTUNGSBEHÖRDE = NICHT ENDLTIG
-❌ FALSCH: Entscheid ist endgültig
-✅ RICHTIG: Weiterzug an Gericht möglich
-
----
-
-## 8. WER KÜNDIGT? (FORM)
-❌ FALSCH: Beide gleich
-✅ RICHTIG: Mieter = schriftlich / Vermieter = amtliches Formular (OR 266l)
-
----
-
-## 9. FAMILIENWOHNUNG FORMFEHLER
-❌ FALSCH: Nur ein Brief reicht
-✅ RICHTIG: Getrennte Briefe an beide Eheleute (OR 266n) / Nichtigkeit (OR 266o)
-
----
-
-## 10. KAUF vs. MIETE BEI MÄNGELN
-❌ FALSCH: Bei Kauf auch Reparatur möglich
-✅ RICHTIG: Miete = Reparatur / Kauf = Wandelung/Minderung/Ersatz (keine Nachbesserung!)
-
----
-
-## 11. BEI UNMÖGLICHKEIT
-❌ FALSCH: Beide Verträge gleich
-✅ RICHTIG: Miete = Mietzinsreduktion / Kauf = Wandlung + Rückzahlung (OR 119)
-
----
-
-## 12. EINTRITT KÜNDIGUNG
-❌ FALSCH: Poststempel zählt
-✅ RICHTIG: Empfang zählt (am Tag des Empfangs beim Empfänger)
+## FALLE 12: ANFECHTUNG KÜNDIGUNG = 30 TAGE
+- Frist: 30 Tage ab Erhalt (Art. 273 Abs. 1 OR)
+- Bei Schlichtungsbehörde
+- ACHTUNG: Art. 273 (Kündigung anfechten) ≠ Art. 270 (Mietzins anfechten)!
